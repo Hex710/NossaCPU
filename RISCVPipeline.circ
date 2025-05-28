@@ -2655,7 +2655,7 @@ fe5ff06f 1438393 1463 fd7ff06f a38393 702223
       <a name="incoming" val="32"/>
     </comp>
     <comp lib="0" loc="(540,460)" name="Constant">
-      <a name="value" val="0x2"/>
+      <a name="value" val="0x3"/>
       <a name="width" val="4"/>
     </comp>
     <comp lib="0" loc="(660,520)" name="Pin">
