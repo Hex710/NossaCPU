@@ -1701,11 +1701,6 @@
       <a name="label" val="ALUOp1"/>
       <a name="labelfont" val="SansSerif bold 9"/>
     </comp>
-    <comp lib="0" loc="(2000,1000)" name="Tunnel">
-      <a name="facing" val="north"/>
-      <a name="label" val="ALUSrc"/>
-      <a name="labelfont" val="SansSerif bold 9"/>
-    </comp>
     <comp lib="0" loc="(2030,800)" name="Tunnel">
       <a name="facing" val="east"/>
       <a name="label" val="ALUOp1"/>
@@ -1956,9 +1951,6 @@
     <comp lib="2" loc="(180,410)" name="Multiplexer">
       <a name="width" val="24"/>
     </comp>
-    <comp lib="2" loc="(2020,960)" name="Multiplexer">
-      <a name="width" val="32"/>
-    </comp>
     <comp lib="2" loc="(2060,560)" name="Multiplexer">
       <a name="select" val="2"/>
       <a name="width" val="32"/>
@@ -2001,8 +1993,7 @@
       <a name="addrWidth" val="24"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 24 32
-293 6400313 393 e13 629463 ff9ff06f 129e13 1c3a023
-128293 438393 1463 fcbff06f
+0
 </a>
       <a name="dataWidth" val="32"/>
     </comp>
@@ -2069,7 +2060,6 @@
     <wire from="(1290,860)" to="(1300,860)"/>
     <wire from="(130,400)" to="(150,400)"/>
     <wire from="(130,520)" to="(130,570)"/>
-    <wire from="(130,520)" to="(140,520)"/>
     <wire from="(130,570)" to="(600,570)"/>
     <wire from="(1300,210)" to="(1300,380)"/>
     <wire from="(1300,380)" to="(1370,380)"/>
@@ -2189,7 +2179,6 @@
     <wire from="(2000,560)" to="(2000,570)"/>
     <wire from="(2000,560)" to="(2020,560)"/>
     <wire from="(2000,570)" to="(2020,570)"/>
-    <wire from="(2000,980)" to="(2000,1000)"/>
     <wire from="(2010,480)" to="(2010,490)"/>
     <wire from="(2010,480)" to="(2100,480)"/>
     <wire from="(2010,510)" to="(2010,540)"/>
