@@ -2302,11 +2302,11 @@ fffffffe ffffff9f fffffff0 6f 0 ffffffa3 ffffff83 ffffff93
     <wire from="(290,290)" to="(290,410)"/>
     <wire from="(290,290)" to="(580,290)"/>
     <wire from="(290,410)" to="(310,410)"/>
+    <wire from="(3070,530)" to="(3160,530)"/>
     <wire from="(3090,410)" to="(3090,470)"/>
     <wire from="(3090,470)" to="(3160,470)"/>
     <wire from="(3090,550)" to="(3090,610)"/>
     <wire from="(3090,550)" to="(3160,550)"/>
-    <wire from="(3100,530)" to="(3160,530)"/>
     <wire from="(3120,420)" to="(3120,510)"/>
     <wire from="(3120,510)" to="(3160,510)"/>
     <wire from="(3150,570)" to="(3160,570)"/>
