@@ -10,7 +10,11 @@
   <lib desc="#Gates" name="1"/>
   <lib desc="#Plexers" name="2"/>
   <lib desc="#Arithmetic" name="3"/>
-  <lib desc="#Memory" name="4"/>
+  <lib desc="#Memory" name="4">
+    <tool name="RAM">
+      <a name="enables" val="line"/>
+    </tool>
+  </lib>
   <lib desc="#I/O" name="5"/>
   <lib desc="#TTL" name="6"/>
   <lib desc="#TCL" name="7"/>
@@ -1989,8 +1993,8 @@
       <a name="addrWidth" val="24"/>
       <a name="appearance" val="classic"/>
       <a name="contents">addr/data: 24 32
-293 6400313 393 e13 629463 129e13 1c3a023 128293
-438393 fe000b63
+a00293 1400313 7ff00393 7ff00e13 5ad00e93 839393 6e1e13 3e9e93
+1c383b3 1d383b3 238393 6282b3 7282b3
 </a>
       <a name="dataWidth" val="32"/>
     </comp>
